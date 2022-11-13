@@ -24,7 +24,7 @@ A Full stack android and web developer from [Bangalore][about-bangalore]:green_h
  
 - 💬 Discuss with me about **Web development, Java, JavaScript, Python, Problem Solving:grey_exclamation:**
 
-- 📫 Where to find me 📨 **kiranrevanna1@gmail.com**
+- 📫 Where to find me **kiranrevanna1@gmail.com**📨
 
 ## Getting in Touch with me😇 
 
