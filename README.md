@@ -12,10 +12,10 @@ A Full stack android and web developer from [Bangalore][about-bangalore]:green_h
 [homepage]: https://github.com/KiranRevanna1
 [twitter]: https://twitter.com/kiranrevanna1
 
-[DSCE]: https://www.dsce.edu.in/
+[DSCE]: https://www.dsce.edu.in
 [github]: https://github.com/KiranRevanna1
 [about-bangalore]: https://www.google.com/search?q=bangalore
-
+[link]: https://kiranrevanna.netlify.app
 ## The essence of my overall philosophy:thought_balloon:
 
 - 👨‍💻 Currently, I'm pursuing an engineering degree in [Dayananda Sagar College of Engineering][DSCE].
@@ -25,6 +25,8 @@ A Full stack android and web developer from [Bangalore][about-bangalore]:green_h
 - 💬 Discuss with me about **Web development, Java, JavaScript, Python, Problem Solving:grey_exclamation:**
 
 - 📫 Where to find me **kiranrevanna1@gmail.com**📨
+
+- - 📫 Where to find more about me [Portfolio][link].
 
 ## Getting in Touch with me😇 
 
