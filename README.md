@@ -1,7 +1,7 @@
 <img align="left" width="150" height="150" alt="Kiran L" src="https://imgur.com/8WxdhgL.png?transparent=1&palette=1"/>
 
 
-# :wave: I'm [Kiran L][homepage] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80px">
+# :wave: I'm [Kiran L][homepage] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
 
 A Full stack android and web developer from [Bangalore][about-bangalore]:green_heart:.  
 💫 I enjoy developing applications and brainstorming new product concepts :blue_heart: . I disseminate information Through my coding, writings, postings, and speeches, I impart information:star2:.
