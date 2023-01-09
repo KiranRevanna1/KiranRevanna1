@@ -43,4 +43,6 @@ A Full stack android and web developer from [Bangalore][about-bangalore]:green_h
 
 ## The languages :neckbeard: I employ while creating projects :trollface:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranrevanna1&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniAkash&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KiranRevanna1&layout=compact)
+
