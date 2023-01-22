@@ -1,13 +1,12 @@
 <img align="left" width="150" height="150" alt="Kiran L" src="https://imgur.com/8WxdhgL.png?transparent=1&palette=1"/>
 
 
-# :wave: I'm [Kiran L][homepage] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px">
+# :wave: I'm [Kiran L][homepage] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px"> 
 
 A Full stack android and web developer from [Bangalore][about-bangalore]:green_heart:.  
-💫 I enjoy developing applications and brainstorming new product concepts :blue_heart: . I disseminate information Through my coding, writings, postings, and speeches, I impart information:star2:.
+💫 I enjoy developing applications and brainstorming new product concepts :blue_heart: . I disseminate information Through my coding, writings, postings, and speeches, I impart information:star2:. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kiranrevanna1?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
-
 
 [homepage]: https://github.com/KiranRevanna1
 [twitter]: https://twitter.com/kiranrevanna1
@@ -16,7 +15,7 @@ A Full stack android and web developer from [Bangalore][about-bangalore]:green_h
 [github]: https://github.com/KiranRevanna1
 [about-bangalore]: https://www.google.com/search?q=bangalore
 [link]: https://kiranrevanna.netlify.app
-## The essence of my overall philosophy:thought_balloon:
+## The essence of my overall philosophy:thought_balloon: [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 
 - 👨‍💻 Currently, I'm pursuing an engineering degree in [Dayananda Sagar College of Engineering][DSCE].
 
