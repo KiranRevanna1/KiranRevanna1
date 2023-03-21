@@ -3,7 +3,7 @@
 
 # :wave: I'm [Kiran L][homepage] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px"> 
 
-A Full stack android and web developer from [Bangalore][about-bangalore]:green_heart:.  
+A Full Stack developer and DevOps Engineer from [Bangalore][about-bangalore]:green_heart:.  
 💫 I enjoy developing applications and brainstorming new product concepts :blue_heart: . I disseminate information Through my coding, writings, postings, and speeches, I impart information:star2:. 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/kiranrevanna1?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)][twitter]
