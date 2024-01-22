@@ -2,15 +2,15 @@
 
 [homepage]: https://github.com/KiranRevanna1
 # :wave: I'm [Kiran L][homepage] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px"> 
+**Full Stack Developer | DevOps Engineer | Lecturer | Former Product Engineer @OSlash | Ex-SDE @Reloki | DSCE CSE**
 
-Full Stack Developer | DevOps Engineer | Lecturer | Former Product Engineer @OSlash | Ex-SDE @Reloki | DSCE CSE 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiran-l-287586217/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kiran_revanna_/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/kiranrevanna1?color=%20%2300acee&label=Follow%20me%20on%20Twitter&style=for-the-badge)](https://twitter.com/kiranrevanna1)
-
+[![Twitter Follow](https://img.shields.io/badge/twitter-follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kiranrevanna1)
 ## About Me :thought_balloon:
 
-I'm a passionate Full Stack Developer and DevOps Engineer based in Bangalore, India. Recently graduated with an Computer Science engineering from [Dayananda Sagar College of Engineering (DSCE)](https://www.dsce.edu.in). ⚓ I enjoy exploring **Golang, Kubernetes**.🈷️
+I'm a passionate **Full Stack Developer** and **DevOps Engineer** based in Bangalore, India. Recently graduated with a Computer Science engineering degree from [Dayananda Sagar College of Engineering (DSCE)](https://www.dsce.edu.in). ⚓ I enjoy exploring **Golang, Kubernetes**.🈷️
+
 ## Get in Touch :mailbox:
 
 - 📧 Email: [kiranrevanna1@gmail.com](mailto:kiranrevanna1@gmail.com)
@@ -29,8 +29,7 @@ Here are some of my most interesting open-source projects. Feel free to explore 
 - Springboot, django, python, Java, Web Portal | [Check it out](https://kiranrevanna.pythonanywhere.com) | [Wisher Demo](https://dsce-birthday-wisher-production.up.railway.app/) | [View Code](https://github.com/KiranRevanna1/CollegiateX) | Jun 2022 — Oct 22
 - Engineered a comprehensive college ERP system using Java, Spring Boot, and MySQL to efficiently manage academic and administrative operations.
 - Constructed a user-friendly web interface with Bootstrap and JSON Web Tokens (JWT) for enhanced security.
-- Streamlined college processes by integrating admissions, attendance, timetables, grades, finances, and reporting,
-facilitating data-driven decision-making and improved performance tracking.
+- Streamlined college processes by integrating admissions, attendance, timetables, grades, finances, and reporting, facilitating data-driven decision-making and improved performance tracking.
 
 ## Education 🎓
 
