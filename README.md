@@ -34,6 +34,7 @@ Here are some of my most interesting open-source projects. Feel free to explore 
 ## Education 🎓
 
 - Bachelor of Engineering in Computer Science and Engineering, DSCE (CGPA — 8.86)
+- Diploma in computer science, GPTC (Percentage - 87%)
 
 ## Certifications and Achievements 🏆
 
