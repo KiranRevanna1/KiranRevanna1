@@ -66,7 +66,7 @@ Here are some of my most interesting open-source projects. Feel free to explore 
 - AWS (Lambda, S3 Bucket, EC2), GCP (Compute Engine, App Engine, Cloud Storage), Docker, Kubernetes, Jenkins
 
 ### Backend Frameworks:
-- Spring Boot, Django
+- Spring Boot, Django, Node js
 
 ### Other Technologies:
 - GraphQL, RESTful API, Git, GoDaddy, Adobe Illustrator, Adobe Photoshop
