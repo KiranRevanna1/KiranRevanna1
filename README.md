@@ -2,7 +2,7 @@
 
 [homepage]: https://github.com/KiranRevanna1
 # :wave: I'm [Kiran L][homepage] <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60px"> 
-**Full Stack Developer | DevOps Engineer | Lecturer | Former Product Engineer @OSlash | Ex-SDE @Reloki | DSCE CSE**
+**Software Engineer | Full Stack Developer | DevOps Engineer | Lecturer | Former Product Engineer @OSlash | Ex-SDE @Reloki | DSCE CSE**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiran-l-287586217/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/kiran_revanna_/)
