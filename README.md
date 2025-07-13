@@ -1,73 +1,80 @@
 # 👋 Hi, I'm Kiran L
 
-I'm a Full Stack Software Engineer with proven expertise in building scalable, high-performance web applications. I specialize in modern TypeScript-based stacks like NestJS and Angular, and have solid backend experience with Python (Django) and Java (Spring Boot). From designing robust APIs to deploying production-ready systems on cloud platforms, I deliver clean, maintainable code that solves real-world problems.
+I'm a Tech Lead and Full-Stack Engineer with 4+ years of experience building scalable, secure, and high-performance web applications and SaaS platforms. I specialize in architecting full-stack systems using Angular, NestJS (Node.js), Django, and Spring Boot — with deep expertise in PostgreSQL, MySQL, and AWS infrastructure. I enjoy solving complex problems with clean, maintainable code and building products that make an impact.
 
 ---
 
 ## 📫 Let's Connect!
-- **Portfolio:** [kiranrevanna.com](https://kiranrevanna.netlify.app/)
+
+- **Portfolio:** [kiranrevanna.netlify.app](https://kiranrevanna.netlify.app)
 - **LinkedIn:** [linkedin.com/in/kiran-revanna](https://www.linkedin.com/in/kiran-revanna/)
 - **GitHub:** [github.com/KiranRevanna1](https://github.com/KiranRevanna1)
 - **Email:** kiranrevanna01@gmail.com
-  
+
 ---
 
 ## 🛠 Technical Skills
 
 - **Languages:** TypeScript, JavaScript, Python, C++, Java, C#
-- **Frameworks/Libraries:** NestJS, Angular, React.js, Tailwind CSS, PrimeNG, Spring Boot, Django, Express.js, ASP.NET
-- **Backend APIs:** Node.js, .NET, RESTful APIs, GraphQL, TypeORM, JWT Authentication, Server-Sent Events (SSE)
+- **Frameworks & Libraries:** NestJS, Angular, React.js, Django, Spring Boot, Express.js, ASP.NET, Tailwind CSS, Bootstrap, PrimeNG
+- **Backend & APIs:** Node.js, RESTful APIs, GraphQL, TypeORM, JWT Authentication, Server-Sent Events (SSE)
 - **Databases:** PostgreSQL, MySQL, SQLite, AWS DynamoDB
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudWatch), Docker, GitHub Actions, Cloudflare Workers, CI/CD
-- **Tools & Others:** Git, Figma, Agile/Scrum, Arduino, MVC Architecture, Responsive Design
+- **Tools & Practices:** Git, Figma, Arduino, Agile/Scrum, MVC Architecture, Responsive Design
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
 
-**🔹 Full Stack Engineer – Banyan Utility (via Multi Recruit)**  
-*May 2024 – May 2025*  
-• Built a scalable SaaS MVP using **NestJS (Node.js)**, **TypeScript**, **Angular**, and **RxJS**  
-• Integrated secure payments via **Authorize.net**, and developed robust APIs with **TypeORM** and **PostgreSQL (AWS RDS)**  
-• Designed responsive UIs using **Angular Reactive Forms**, **PrimeNG**, and **Tailwind CSS**, reducing frontend bugs by 30%  
-• Managed cloud deployments and observability using **AWS EC2**, **CloudWatch**, and **CI/CD pipelines**
+### 🔹 Full-Stack Engineer — Banyan Utility *(via Multi Recruit)*
+**May 2024 – May 2025 | Bengaluru, India**  
+- Built a full-scale MVP using NestJS (Node.js), Angular, TypeScript, and RxJS to evolve into a scalable SaaS product  
+- Integrated secure payments via Authorize.net and modular APIs with TypeORM and PostgreSQL (AWS RDS)  
+- Designed dynamic Angular UIs with PrimeNG, Tailwind CSS, and Angular Reactive Forms — reducing bugs by 30%  
+- Deployed services on AWS (EC2, S3), implemented observability with CloudWatch, and CI/CD with Docker
 
-**🔹 Product Engineer Intern – OSlash (DemandWork Software Pvt Ltd)**  
-*Oct 2022 – Jan 2023*  
-• Developed Server-Sent Event (SSE) APIs in Node.js for real-time search and shortcut resolution  
-• Built scalable microservices using **GraphQL**, **TypeScript**, and **Cloudflare Workers**, backed by **AWS DynamoDB**  
-• Enhanced UI using **React.js**, **Next.js**, and **Tailwind CSS**  
-• Automated CI/CD using **GitHub Actions**, **Docker**, **AWS Lambda**, and **S3**
+### 🔹 Tech Lead — Reloki Softwares LLC
+**Jun 2020 – Apr 2024 | Remote (Bengaluru-based)**  
+- Led development of scalable apps across ERP, E-commerce, and Logistics domains using Django, Node.js, and TypeScript  
+- Built secure RESTful APIs, GraphQL services, and SSE endpoints with JWT and deployed via Cloudflare Workers  
+- Engineered responsive UIs using Angular, React.js, Tailwind CSS, and Bootstrap  
+- Managed cloud infrastructure on AWS (EC2, Lambda, S3, CloudWatch) and automated deployments with GitHub Actions & Docker
 
 ---
 
 ## 🚀 Projects
 
-### 🚑 Sophisticated Ambulance Escort System  
+### 🚑 Sophisticated Ambulance Escort System
 **Tech Stack:** Python, YOLOv8, Arduino (C++), React Native, Node.js  
 [🔗 Demo Video](https://drive.google.com/file/d/1Iat4myDpkAsKp5eAq3iEqVj6mlSAtMT9/view) • [💻 View Code](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System)  
-• Developed an AI-based system for ambulance detection, siren recognition, and smart traffic signal control  
-• Integrated IoT components via **C++ (Arduino Mega)** for real-time response  
-• Built a hybrid mobile app with **React Native + Expo** for booking, tracking, and dispatching ambulances
-
-
-### 🎓 CollegiateX — College ERP System  
-**Tech Stack:** Django, Spring Boot, Tailwind CSS, SQLite3, MySQL  
-[🔗 Django Code](https://github.com/KiranRevanna1/DSCE_College_ERP_App) • [🔗 Spring Boot Code](https://github.com/KiranRevanna1/CollegiateX) • [🔗 Demo Video](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view)  
-• Developed an end-to-end ERP for colleges with modules for admissions, attendance, grades, and finance  
-• Built role-based authentication with **JWT** and dynamic dashboards  
-• Combined rapid prototyping (Django) and enterprise architecture (Spring Boot) for robust cross-stack delivery
-
-
-### 🎉 CelebrateSync — Automated Birthday Wisher App  
-**Tech Stack:** Django, SQLite3, Bootstrap, Twilio, APScheduler  
-[🔗 Demo Video](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view) • [💻 View Code](https://github.com/KiranRevanna1/CelebrateSync)  
-• Built an automated birthday wisher using Django, SQLite3, and APScheduler for time-based scheduling  
-• Enabled bulk user data upload (Name, DOB) and automated message delivery via **SMTP (email)** and **Twilio (SMS)**  
-• Designed a clean, responsive UI with **Bootstrap** and **JavaScript**, featuring 5+ screens  
-• Demonstrated full-stack expertise with backend automation and API integration in a production-ready app
+Developed a real-time ambulance escort system integrating AI and IoT. Used YOLOv8 for ambulance detection and siren recognition, and Arduino (C++) for smart traffic signal control. Built a React Native app for ambulance booking, GPS tracking, and dispatching.
 
 ---
 
-### 🧩 Fun Fact:
-I love building tools that solve real-world problems — one line of clean code at a time!
+### 🎓 CollegiateX — College ERP System  
+**Tech Stack:** Django, Django REST Framework, Spring Boot, Tailwind CSS, SQLite3, MySQL  
+[🔗 Django Code](https://github.com/KiranRevanna1/DSCE_College_ERP_App) • [🔗 Spring Boot Code](https://github.com/KiranRevanna1/CollegiateX) • [🔗 Demo Video](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view)  
+Built a feature-rich college ERP platform covering admissions, attendance, timetables, grades, and finance. Used Django for rapid prototyping and Spring Boot for enterprise-grade design. Implemented role-based access using JWT and created responsive UI with Bootstrap and JavaScript.
+
+---
+
+### 🎉 CelebrateSync — Automated Birthday Wisher  
+**Tech Stack:** Django, SQLite3, Bootstrap, Twilio, APScheduler  
+[🔗 Demo Video](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view) • [💻 View Code](https://github.com/KiranRevanna1/CelebrateSync)  
+Built an automated birthday wisher app using Django and APScheduler for message timing. Enabled bulk upload of user data and automated greetings via email (SMTP) and SMS (Twilio). Designed with a responsive Bootstrap-based UI and modular backend automation.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Engineering – Computer Science**  
+Dayananda Sagar College of Engineering (Autonomous)    
+
+**Diploma in Computer Science**  
+GPT Channasandra | 2017 – 2020  
+
+---
+
+## 🧩 Fun Fact:
+
+I’m passionate about building tools that solve real-world problems — one line of clean code at a time!
