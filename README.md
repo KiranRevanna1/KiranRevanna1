@@ -33,7 +33,7 @@ I'm a Lead Software Engineer and Full-Stack Engineer with 4+ years of experience
 - Designed dynamic Angular UIs with PrimeNG, Tailwind CSS, and Angular Reactive Forms — reducing bugs by 30%  
 - Deployed services on AWS (EC2, S3), implemented observability with CloudWatch, and CI/CD with Docker
 
-### 🔹 Lead Software Engineer — Reloki Softwares LLC
+### 🔹 Lead Software Engineer — Reloki Software LLC
 **Jun 2020 – Apr 2024 | Remote (Bengaluru-based)**  
 - Led development of scalable apps across ERP, E-commerce, and Logistics domains using Django, Node.js, and TypeScript  
 - Built secure RESTful APIs, GraphQL services, and SSE endpoints with JWT and deployed via Cloudflare Workers  
