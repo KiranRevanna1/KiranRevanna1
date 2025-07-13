@@ -42,6 +42,16 @@ I'm a Tech Lead and Full-Stack Engineer with 4+ years of experience building sca
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Engineering – Computer Science**  
+Dayananda Sagar College of Engineering (Autonomous)    
+
+**Diploma in Computer Science**  
+GPT Channasandra | 2017 – 2020  
+
+---
+
 ## 🚀 Projects
 
 ### 🚑 Sophisticated Ambulance Escort System
@@ -62,16 +72,6 @@ Built a feature-rich college ERP platform covering admissions, attendance, timet
 **Tech Stack:** Django, SQLite3, Bootstrap, Twilio, APScheduler  
 [🔗 Demo Video](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view) • [💻 View Code](https://github.com/KiranRevanna1/CelebrateSync)  
 Built an automated birthday wisher app using Django and APScheduler for message timing. Enabled bulk upload of user data and automated greetings via email (SMTP) and SMS (Twilio). Designed with a responsive Bootstrap-based UI and modular backend automation.
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering – Computer Science**  
-Dayananda Sagar College of Engineering (Autonomous)    
-
-**Diploma in Computer Science**  
-GPT Channasandra | 2017 – 2020  
 
 ---
 
