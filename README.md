@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kiran L
 
-I'm a Tech Lead and Full-Stack Engineer with 4+ years of experience building scalable, secure, and high-performance web applications and SaaS platforms. I specialize in architecting full-stack systems using Angular, NestJS (Node.js), Django, and Spring Boot — with deep expertise in PostgreSQL, MySQL, and AWS infrastructure. I enjoy solving complex problems with clean, maintainable code and building products that make an impact.
+I'm a Lead Software Engineer and Full-Stack Engineer with 4+ years of experience building scalable, secure, and high-performance web applications and SaaS platforms. I specialize in architecting full-stack systems using Angular, NestJS (Node.js), Django, and Spring Boot — with deep expertise in PostgreSQL, MySQL, and AWS infrastructure. I enjoy solving complex problems with clean, maintainable code and building products that make an impact.
 
 ---
 
@@ -33,7 +33,7 @@ I'm a Tech Lead and Full-Stack Engineer with 4+ years of experience building sca
 - Designed dynamic Angular UIs with PrimeNG, Tailwind CSS, and Angular Reactive Forms — reducing bugs by 30%  
 - Deployed services on AWS (EC2, S3), implemented observability with CloudWatch, and CI/CD with Docker
 
-### 🔹 Tech Lead — Reloki Softwares LLC
+### 🔹 Lead Software Engineer — Reloki Softwares LLC
 **Jun 2020 – Apr 2024 | Remote (Bengaluru-based)**  
 - Led development of scalable apps across ERP, E-commerce, and Logistics domains using Django, Node.js, and TypeScript  
 - Built secure RESTful APIs, GraphQL services, and SSE endpoints with JWT and deployed via Cloudflare Workers  
