@@ -34,7 +34,7 @@ I'm a Lead Software Engineer and Full-Stack Engineer with 4+ years of experience
 - Deployed services on AWS (EC2, S3), implemented observability with CloudWatch, and CI/CD with Docker
 
 ### 🔹 Lead Software Engineer — Reloki Software LLC
-**Jun 2020 – Apr 2024 | Remote (Bengaluru-based)**  
+**June 2020 – March 2024 | Remote (Bengaluru-based)**  
 - Led development of scalable apps across ERP, E-commerce, and Logistics domains using Django, Node.js, and TypeScript  
 - Built secure RESTful APIs, GraphQL services, and SSE endpoints with JWT and deployed via Cloudflare Workers  
 - Engineered responsive UIs using Angular, React.js, Tailwind CSS, and Bootstrap  
