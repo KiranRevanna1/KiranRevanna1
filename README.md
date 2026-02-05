@@ -1,80 +1,50 @@
 # 👋 Hi, I'm Kiran L
 
-I'm a Lead Software Engineer and Full-Stack Engineer with 4+ years of experience building scalable, secure, and high-performance web applications and SaaS platforms. I specialize in architecting full-stack systems using Angular, NestJS (Node.js), Django, and Spring Boot — with deep expertise in PostgreSQL, MySQL, and AWS infrastructure. I enjoy solving complex problems with clean, maintainable code and building products that make an impact.
+Senior Full-Stack Engineer (Lead) with 5+ years of experience building scalable SaaS platforms, cloud-native systems, and production-grade web and mobile applications.
+
+I specialize in **TypeScript, Node.js (NestJS), React, React Native, and Angular**, architecting end-to-end systems — from backend design and secure API development to intuitive front-end applications and AWS cloud deployments.
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 What I Focus On
 
-- **Portfolio:** [kiranrevanna.netlify.app](https://kiranrevanna.netlify.app)
-- **LinkedIn:** [linkedin.com/in/kiran-revanna](https://www.linkedin.com/in/kiran-revanna/)
-- **GitHub:** [github.com/KiranRevanna1](https://github.com/KiranRevanna1)
-- **Email:** kiranrevanna01@gmail.com
-
----
-
-## 🛠 Technical Skills
-
-- **Languages:** TypeScript, JavaScript, Python, C++, Java, C#
-- **Frameworks & Libraries:** NestJS, Angular, React.js, Django, Spring Boot, Express.js, ASP.NET, Tailwind CSS, Bootstrap, PrimeNG
-- **Backend & APIs:** Node.js, RESTful APIs, GraphQL, TypeORM, JWT Authentication, Server-Sent Events (SSE)
-- **Databases:** PostgreSQL, MySQL, SQLite, AWS DynamoDB
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda, RDS, CloudWatch), Docker, GitHub Actions, Cloudflare Workers, CI/CD
-- **Tools & Practices:** Git, Figma, Arduino, Agile/Scrum, MVC Architecture, Responsive Design
+- Scalable backend architecture & clean system design  
+- Offline-first mobile systems  
+- REST & GraphQL APIs  
+- Secure authentication (OAuth2 / JWT)  
+- Cloud-native infrastructure on AWS  
+- CI/CD automation & production reliability  
 
 ---
 
-## 💼 Professional Experience
+## 🛠 Core Stack
 
-### 🔹 Full-Stack Engineer — Banyan Utility *(via Multi Recruit)*
-**May 2024 – May 2025 | Bengaluru, India**  
-- Built a full-scale MVP using NestJS (Node.js), Angular, TypeScript, and RxJS to evolve into a scalable SaaS product  
-- Integrated secure payments via Authorize.net and modular APIs with TypeORM and PostgreSQL (AWS RDS)  
-- Designed dynamic Angular UIs with PrimeNG, Tailwind CSS, and Angular Reactive Forms — reducing bugs by 30%  
-- Deployed services on AWS (EC2, S3), implemented observability with CloudWatch, and CI/CD with Docker
+**Languages:** TypeScript, JavaScript, Python  
 
-### 🔹 Lead Software Engineer — Reloki Software LLC
-**June 2020 – March 2024 | Remote (Bengaluru-based)**  
-- Led development of scalable apps across ERP, E-commerce, and Logistics domains using Django, Node.js, and TypeScript  
-- Built secure RESTful APIs, GraphQL services, and SSE endpoints with JWT and deployed via Cloudflare Workers  
-- Engineered responsive UIs using Angular, React.js, Tailwind CSS, and Bootstrap  
-- Managed cloud infrastructure on AWS (EC2, Lambda, S3, CloudWatch) and automated deployments with GitHub Actions & Docker
+**Frontend:** React, React Native (Expo), Angular, Next.js, Tailwind CSS  
+
+**Backend:** Node.js, NestJS, Express, Django, REST, GraphQL, JWT, OAuth2, Prisma, TypeORM  
+
+**Databases:** PostgreSQL, MySQL, MongoDB, DynamoDB, SQLite  
+
+**Architecture:** Monolith & Microservices, Event-Driven Systems, API Design  
+
+**Cloud & DevOps:** AWS (EC2, S3, RDS, Lambda), Docker, CI/CD (GitHub Actions), Cloudflare Workers  
 
 ---
 
-## 🎓 Education
+## 💼 Selected Work
 
-**Bachelor of Engineering – Computer Science**  
-Dayananda Sagar College of Engineering (Autonomous)    
+### 📱 Offline-First SaaS Platform  
+Led architecture and development of a mobile + web SaaS platform using React Native and NestJS, implementing resilient offline synchronization and AWS-backed infrastructure.
 
-**Diploma in Computer Science**  
-GPT Channasandra | 2017 – 2020  
-
----
-
-## 🚀 Projects
-
-### 🚑 Sophisticated Ambulance Escort System
-**Tech Stack:** Python, YOLOv8, Arduino (C++), React Native, Node.js  
-[🔗 Demo Video](https://drive.google.com/file/d/1Iat4myDpkAsKp5eAq3iEqVj6mlSAtMT9/view) • [💻 View Code](https://github.com/KiranRevanna1/A_Sophisticated_Ambulance_Escort_System)  
-Developed a real-time ambulance escort system integrating AI and IoT. Used YOLOv8 for ambulance detection and siren recognition, and Arduino (C++) for smart traffic signal control. Built a React Native app for ambulance booking, GPS tracking, and dispatching.
+### 🚑 AI-Powered Ambulance Escort System  
+Built a real-time AI + IoT system using YOLOv8 (Python) and Arduino for smart traffic automation, alongside a React Native + Node.js app for live tracking and dispatch.
 
 ---
 
-### 🎓 CollegiateX — College ERP System  
-**Tech Stack:** Django, Django REST Framework, Spring Boot, Tailwind CSS, SQLite3, MySQL  
-[🔗 Django Code](https://github.com/KiranRevanna1/DSCE_College_ERP_App) • [🔗 Spring Boot Code](https://github.com/KiranRevanna1/CollegiateX) • [🔗 Demo Video](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view)  
-Built a feature-rich college ERP platform covering admissions, attendance, timetables, grades, and finance. Used Django for rapid prototyping and Spring Boot for enterprise-grade design. Implemented role-based access using JWT and created responsive UI with Bootstrap and JavaScript.
+## 📫 Connect
 
----
-
-### 🎉 CelebrateSync — Automated Birthday Wisher  
-**Tech Stack:** Django, SQLite3, Bootstrap, Twilio, APScheduler  
-[🔗 Demo Video](https://drive.google.com/file/d/11ZhkplLrQDcz-Y2Ngf1bw0PUSe66xOsn/view) • [💻 View Code](https://github.com/KiranRevanna1/CelebrateSync)  
-Built an automated birthday wisher app using Django and APScheduler for message timing. Enabled bulk upload of user data and automated greetings via email (SMTP) and SMS (Twilio). Designed with a responsive Bootstrap-based UI and modular backend automation.
-
----
-
-## 🧩 Fun Fact:
-
-I’m passionate about building tools that solve real-world problems — one line of clean code at a time!
+🌐 Portfolio: https://kiranrevanna.netlify.app  
+💼 LinkedIn: https://www.linkedin.com/in/kiran-revanna  
+📧 Email: kiranrevanna01@gmail.com
